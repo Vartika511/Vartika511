@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vartika Yaduvanshi 👩</h1>
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartika511" alt="vartika511" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@vartika05" target="blank"><img src="https://img.shields.io/twitter/follow/@vartika05?logo=twitter&style=for-the-badge" alt="@vartika05" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
