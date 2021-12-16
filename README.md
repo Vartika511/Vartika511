@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vartika Yaduvanshi 👩</h1>
-<a href="#" target="blank"><img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="175px" /></a>
-<h3 align="left">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
+
+<h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
+<a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="500px" /></a>
 
 
 - 🌱 I’m currently learning **Solidity**
