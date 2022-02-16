@@ -37,6 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vartika511&theme=radical" alt="vartika511" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p> -->
 
 
