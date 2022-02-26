@@ -48,6 +48,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vartika511&theme=radical" alt="vartika511" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p> -->
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p>
+
+<br>
+
+<h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> </p></h2>
+   
+
 
 
