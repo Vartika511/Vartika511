@@ -4,6 +4,9 @@
 <br>
 
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
+
+<br>
+
 <a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="500px" /></a>
 
 
@@ -15,6 +18,8 @@
 
 - ⚡ Fun fact **U will not get bored with me 🌎.**
 
+<br>
+
 <h3 align="left">⇋ Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vartika05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vartika05" height="30" width="40" /></a>
@@ -22,6 +27,8 @@
 <a href="https://instagram.com/vartika_511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vartika_511" height="30" width="40" /></a>
  <a href="https://medium.com/@vartikayaduvanshi511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vartika_511" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,7 +44,7 @@
  <code><a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  </a> </code>
  <code><a href="https://react.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>  </a> </code>
 
- 
+ <br> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vartika511&theme=radical" alt="vartika511" /></p>
 
