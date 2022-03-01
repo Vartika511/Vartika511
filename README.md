@@ -55,7 +55,7 @@
 
  <br> <br>
   
-## GitHub Analytics 
+## 🏆GitHub Analytics 
 
 <p align="center">
 <a href="https://github.com/Vartika511">
@@ -65,7 +65,7 @@
 </a>
 </p>
 
-## Vartika's github activity graph
+## ⚔Vartika's github activity graph
 
 <p align="center">
 <a href="https://github.com/Vartika511">
