@@ -54,13 +54,24 @@
  <code><a href="https://react.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>  </a> </code>
 
  <br> <br>
+  
+## GitHub Analytics 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vartika511&theme=radical" alt="vartika511" /></p>
+<p align="center">
+<a href="https://github.com/Vartika511">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vartika511&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vartika511&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vartika511&theme=merko"/>
+</a>
+</p>
 
-<br>
+## Vartika's github activity graph
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p>
-<br>
+<p align="center">
+<a href="https://github.com/Vartika511">
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Vartika511&theme=xcode"/>
+</a>
+</p>
 
 <samp>
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
