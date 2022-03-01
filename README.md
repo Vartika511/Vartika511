@@ -6,7 +6,9 @@
 
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
 
-<h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> </p></h2>
+<h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> 
+  <img src="https://badges.pufler.dev/commits/monthly/Vartika511" />
+ </p></h2>
 
 <br>
 
@@ -60,8 +62,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p>
 <br>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<samp>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+<br>
 
+<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
+<br>
 
    
 
