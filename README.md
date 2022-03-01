@@ -69,7 +69,7 @@
 
 <p align="center">
 <a href="https://github.com/Vartika511">
-  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Vartika511&theme=xcode"/>
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Vartika511&theme=chartreuse-dark"/>
 </a>
 </p>
 
