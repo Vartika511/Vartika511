@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vartika Yaduvanshi 👩</h1>
 
 ![final2](https://user-images.githubusercontent.com/73403577/155861545-fcc4d226-0889-4432-8d9d-13ad8eb45fdb.jpeg)
+<p align="center"> (Open for Hiring)</p>
 <br>
 
 <h3 align="center">Taking new challenges and learning from it. Currently working to upskill my Competitive coding skill and exploring more about Blockchain. This past year the word ‘blockchain’ has regularly popped up on my radar, so I decided to really research deeper, and I can honestly say that I believe this technology has immense potential for both businesses and developers (❁´◡`❁).</h3>
+
+<h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> </p></h2>
 
 <br>
 
@@ -20,13 +23,17 @@
 
 <br>
 
-<h3 align="left">⇋ Connect with me:</h3>
+<h3 align="left">🎁 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vartika05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vartika05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vartika-yaduvanshi-162b40198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vartika-yaduvanshi-162b40198" height="30" width="40" /></a>
 <a href="https://instagram.com/vartika_511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vartika_511" height="30" width="40" /></a>
- <a href="https://medium.com/@vartikayaduvanshi511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vartika_511" height="30" width="40" /></a>
 </p>
+<br>
+
+<h3 align="left">💬 My Blog Articles:</h3>
+
+ <a href="https://medium.com/@vartikayaduvanshi511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vartika_511" height="30" width="40" /></a>
 
 <br>
 
@@ -51,10 +58,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vartika511&theme=radical" alt="vartika511" /></p>
-
 <br>
 
-<h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=Vartika511&label=Profile%20views&color=6805D3&style=flat" alt="Vartika Yaduvanshi" /> </p></h2>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
    
 
 
